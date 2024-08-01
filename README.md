@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Boas vindas ao meu perfil :blue_heart
-Meu nome é Marcelo Paludetto
+Meu nome é Isabela Silva
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
